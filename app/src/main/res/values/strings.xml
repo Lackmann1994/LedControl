@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Light</string>
+    <string name="name">name</string>
+    <string name="status">Light off</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_addable_lights">AddableLights</string>
+</resources>
